@@ -232,11 +232,8 @@ footer .copy {
 
 footer ul {
   list-style: none;
+  padding: 0;
 }
-
-/* footer ul li{
-  
-} */
 
 footer ul li h1 {
   font-weight: 700;
@@ -250,6 +247,7 @@ footer ul li a {
   line-height: 30px;
   position: relative;
   color: #ffffff;
+  transition: 0.5s all ease-in-out;
 }
 
 footer a:hover {
