@@ -21,7 +21,7 @@ header {
 
 .nav-link {
   color: #000000;
-  margin-left: 2rem;
+  margin-left: 3rem;
   position: relative;
   padding: 0 !important;
   line-height: 40px;
@@ -67,11 +67,14 @@ button:hover {
 
 header button {
   border: none;
-  margin-left: 2rem;
+  margin-left: 3rem;
 }
 
 .banner {
+  display: flex;
   background-color: #f0fff0;
+  min-height: 92vh;
+  align-items: center;
   padding-bottom: 4rem;
 }
 
