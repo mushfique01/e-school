@@ -41,7 +41,7 @@ header {
   background: #21b573;
   border-radius: 50%;
   opacity: 0;
-  transition: 0.5s all ease-in-out;
+  transition: 0.4s all ease-in-out;
 }
 
 .nav-link:hover::before {
@@ -57,7 +57,7 @@ button {
 
   border-radius: 33px;
 
-  transition: 0.5s all ease-in-out;
+  transition: 0.4s all ease-in-out;
 }
 
 button:hover {
@@ -133,7 +133,7 @@ header button {
   padding: 54px 0 40px;
   border-radius: 10px;
   margin-bottom: 24px;
-  transition: 0.5s all ease-in-out;
+  transition: 0.4s all ease-in-out;
 }
 
 .description .box:hover {
@@ -180,7 +180,7 @@ header button {
   box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
   border-radius: 18px;
   margin-bottom: 30px;
-  transition: 0.5s all ease-in-out;
+  transition: 0.4s all ease-in-out;
 }
 
 .description .courses {
@@ -194,7 +194,7 @@ header button {
 }
 
 .courses:hover .cards:hover {
-  transform: scale(1.02);
+  transform: scale(1.1);
   filter: blur(0px);
   opacity: 1;
 }
@@ -250,7 +250,7 @@ footer ul li a {
   line-height: 30px;
   position: relative;
   color: #ffffff;
-  transition: 0.5s all ease-in-out;
+  transition: 0.4s all ease-in-out;
 }
 
 footer a:hover {
@@ -265,7 +265,7 @@ footer a::before {
   width: 0;
   height: 2px;
   background: #21b573;
-  transition: 0.5s all ease-in-out;
+  transition: 0.4s all ease-in-out;
 }
 
 footer a:hover::before {
