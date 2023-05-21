@@ -233,6 +233,11 @@ footer .copy {
   color: #cdcdcd;
 }
 
+footer .copy a {
+  text-decoration: none;
+  color: #21b573;
+}
+
 footer ul {
   list-style: none;
   padding: 0;
