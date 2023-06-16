@@ -1,0 +1,16 @@
+@media (max-width: 767px) {
+    .nav-link {
+        margin-left: 0;
+        padding-bottom: 5px !important;
+    }
+    .navbar-nav{
+        margin-top: 24px;
+    }
+    .nav-item {
+        display: flex;
+        padding-bottom: 0;
+    }
+    header button{
+        margin: 16px 0 0;
+    }
+}
