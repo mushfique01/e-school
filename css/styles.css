@@ -249,15 +249,11 @@ header button {
 }
 
 .courses:hover .cards {
-  filter: blur(3px);
-  opacity: 0.5;
   transform: scale(0.98);
 }
 
 .courses:hover .cards:hover {
   transform: scale(1.1);
-  filter: blur(0px);
-  opacity: 1;
 }
 
 .description button {
